@@ -1,0 +1,46 @@
+emp_id,name,salary,dept,age,joining_date,status,email,region,country,city
+1001,Amit,75000,IT,28,2023-01-15,Active,amit.1001@company.com,APAC,India,Pune
+1002,Riya,62000,HR,32,2021-05-10,Active,riya.1002@company.com,APAC,India,Mumbai
+1003,Rahul,85000,Finance,45,2018-03-23,Active,rahul.1003@company.com,APAC,India,Delhi
+1004,Sneha,55000,IT,24,2024-06-01,On Leave,sneha.1004@company.com,APAC,India,Bangalore
+1005,Vikram,92000,Marketing,38,2019-11-30,Active,vikram.1005@company.com,APAC,India,Chennai
+1006,Pooja,48000,Sales,26,2023-08-15,Active,pooja.1006@company.com,APAC,India,Pune
+1007,John,120000,IT,35,2020-02-14,Active,john.1007@company.com,NA,USA,New York
+1008,Sarah,115000,HR,31,2020-12-12,Inactive,sarah.1008@company.com,NA,USA,Chicago
+1009,Arjun,130000,Finance,50,2015-01-01,Active,arjun.1009@company.com,APAC,India,Mumbai
+1010,Meera,71000,Marketing,35,2021-07-20,Active,meera.1010@company.com,APAC,India,Delhi
+1011,Kabir,58000,IT,27,2022-09-10,Active,kabir.1011@company.com,APAC,India,Bangalore
+1012,James,140000,Operations,41,2017-06-15,Active,james.1012@company.com,EMEA,UK,London
+1013,Emily,95000,Sales,29,2023-11-05,Active,emily.1013@company.com,EMEA,UK,Manchester
+1014,Lila,63000,HR,30,2020-03-12,On Leave,lila.1014@company.com,APAC,India,Pune
+1015,Rohan,88000,Finance,39,2019-08-25,Active,rohan.1015@company.com,APAC,India,Mumbai
+1016,Mike,105000,IT,33,2022-02-28,Active,mike.1016@company.com,NA,USA,San Francisco
+1017,Vihaan,78000,Marketing,33,2021-11-11,Active,vihaan.1017@company.com,APAC,India,Delhi
+1018,David,110000,Operations,47,2016-04-14,Inactive,david.1018@company.com,NA,USA,New York
+1019,Ananya,67000,IT,29,2022-05-20,Active,ananya.1019@company.com,APAC,India,Bangalore
+1020,Diya,54000,Sales,24,2023-09-01,Active,diya.1020@company.com,APAC,India,Chennai
+1021,Suresh,99000,Finance,42,2018-12-05,Active,suresh.1021@company.com,APAC,India,Pune
+1022,Robert,86000,Operations,28,2024-01-10,Active,robert.1022@company.com,EMEA,UK,London
+1023,Priya,72000,HR,34,2020-10-30,Active,priya.1023@company.com,APAC,India,Mumbai
+1024,Nita,81000,Marketing,37,2019-04-18,On Leave,nita.1024@company.com,APAC,India,Delhi
+1025,Steve,125000,IT,36,2021-02-15,Active,steve.1025@company.com,NA,USA,Chicago
+1026,Riya,63000,HR,33,2021-06-10,Active,riya.1026@company.com,APAC,India,Bangalore
+1027,Rahul,86000,Finance,46,2018-04-23,Inactive,rahul.1027@company.com,APAC,India,Chennai
+1028,Sneha,56000,IT,25,2024-07-01,Active,sneha.1028@company.com,APAC,India,Pune
+1029,Vikram,93000,Marketing,39,2019-12-30,Active,vikram.1029@company.com,APAC,India,Mumbai
+1030,Pooja,49000,Sales,27,2023-09-15,Active,pooja.1030@company.com,APAC,India,Delhi
+1031,Karan,61000,Finance,30,2022-03-14,Active,karan.1031@company.com,APAC,India,Bangalore
+1032,Sina,61000,HR,32,2021-01-12,Active,sina.1032@company.com,APAC,India,Chennai
+1033,Arjun,121000,Finance,51,2015-02-01,On Leave,arjun.1033@company.com,APAC,India,Pune
+1034,Meera,72000,Marketing,36,2021-08-20,Active,meera.1034@company.com,APAC,India,Mumbai
+1035,Kabir,59000,IT,28,2022-10-10,Active,kabir.1035@company.com,APAC,India,Delhi
+1036,Jennifer,135000,Operations,42,2017-07-15,Inactive,jennifer.1036@company.com,NA,USA,New York
+1037,Omar,48000,Sales,24,2023-12-05,Active,omar.1037@company.com,APAC,India,Bangalore
+1038,Lila,64000,HR,31,2020-04-12,Active,lila.1038@company.com,APAC,India,Chennai
+1039,Rohan,89000,Finance,40,2019-09-25,Active,rohan.1039@company.com,APAC,India,Pune
+1040,Ishaan,53000,IT,26,2024-03-28,Active,ishaan.1040@company.com,APAC,India,Mumbai
+1041,Vihaan,79000,Marketing,34,2021-12-11,Active,vihaan.1041@company.com,APAC,India,Delhi
+1042,Aarav,111000,Operations,48,2016-05-14,Active,aarav.1042@company.com,APAC,India,Bangalore
+1043,Ananya,68000,IT,30,2022-06-20,On Leave,ananya.1043@company.com,APAC,India,Chennai
+1044,Diya,55000,Sales,25,2023-10-01,Active,diya.1044@company.com,APAC,India,Pune
+1045,Suresh,100000,Finance,43,2018-01-05,Active,s

@@ -1,0 +1,48 @@
+
+--
+--1. Stored Procedure:
+--A Stored Procedure is a batch of SQL code that you save and can run over and over again.
+--It’s like a function in programming.
+
+Create Procedure GetEmpData as
+Select * from employees where salary > 50000
+Execute GetEmpData
+
+alter Procedure procedurename
+
+create, Alter & drop (DDL statements can be applied)
+
+
+
+---2. View (The "Virtual Window"):
+--Output of a query stored in virtual table but it doesn't store the data , its just shows the data.
+-- data can only be viewed
+
+Create view PublicEmployee as
+select name, Dept from employees (--Here we left salary col. as we wil show what we want to show)
+select * from PublicEmployees
+
+--(DDL statements can be applied)
+
+
+--3. Index
+-- if we apply index on salary col., then at the back-end order by is automatically applied on salary col.
+
+create index indexname on table(col. name)
+
+Create Index Idx_employee_email
+on employees(email)
+
+-- if primary key constraint is applied on a table, then cluster index will applied by default
+-- per table ek hi baar cluster index apply hoga
+
+
+--4. Trigger:
+--Whenever a user is following a negative path or whenever a particular event occurs, We can show an error message using trigger
+--eg. "If anyone changes a Salary, automatically write a record to the AuditLog table saying who did it."
+
+Create trigger AuditSalaryChange on employees
+After Update 
+as Begin
+	insert into Auditlog (messae) values ('salary was changed')
+	end

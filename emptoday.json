@@ -1,0 +1,51 @@
+[
+  {
+    "emp_id": 101,
+    "name": "Rahul",
+    "details": {
+      "current_city": "Pune",
+      "permanent_address": {
+        "street": "MG Road",
+        "zip_code": 411001,
+        "coordinates": {
+          "lat": 18.52,
+          "long": 73.85
+        }
+      }
+    },
+    "skills": ["Python", "Spark", "SQL"],
+    "projects": [
+      { "name": "Alpha", "status": "Completed", "hours": 120 },
+      { "name": "Beta", "status": "Ongoing", "hours": 45 }
+    ]
+  },
+  {
+    "emp_id": 102,
+    "name": "Sneha",
+    "details": {
+      "current_city": "Bangalore",
+      "permanent_address": {
+        "street": "Indiranagar",
+        "zip_code": 560038,
+        "coordinates": {
+          "lat": 12.97,
+          "long": 77.59
+        }
+      }
+    },
+    "skills": ["Java", "Scala"],
+    "projects": [
+      { "name": "Gamma", "status": "Pending", "hours": 0 }
+    ]
+  },
+  {
+    "emp_id": 103,
+    "name": "Amit",
+    "details": {
+      "current_city": "Mumbai",
+      "permanent_address": null
+    },
+    "skills": [],
+    "projects": []
+  }
+]
